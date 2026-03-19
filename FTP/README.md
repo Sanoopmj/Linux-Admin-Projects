@@ -18,6 +18,11 @@ Configured a secure FTP server using VSFTPD on a Linux system to enable controll
 - Disabled anonymous login and enabled local users
 - Created FTP user and assigned permissions
 - Configured firewall to allow FTP traffic
+  
+
+📸 Screenshots
+
+(Add your screenshots here)
 
 ✅ Outcome
 
