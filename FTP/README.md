@@ -22,7 +22,23 @@ Configured a secure FTP server using VSFTPD on a Linux system to enable controll
 
 📸 Screenshots
 
-(Add your screenshots here)
+=>To Get File
+
+![setenforce](SS1-setenforce.png)
+![clientsetenforce](SS2-clientsetenforce.png)
+![installVSFTPD](SS3-installVSFTPD.png)
+![startservice](SS4-startservice.png)
+![getfile](SS5-getfile.png)
+
+=>To Upload File
+
+![createfolder](SS1-createfolder.png)
+![createfile](SS2-createfile.png)
+![VSFTPDconfigfile](SS3-VSFTPDconfigfile.png)
+![enableanonymous](SS4-enableanonymous.png)
+![loginftp](SS5-loginftp.png)
+![uploadfile](SS6-uploadfile.png)
+
 
 ✅ Outcome
 
