@@ -12,7 +12,7 @@ This repository contains hands-on Linux system administration projects demonstra
 - Configured secure FTP server for file transfer
 - Implemented user authentication and access control
 - Configured firewall rules for FTP service
-  👉 [View Project](./FTP)
+ 👉 [View Project](./FTP)
 
 ---
 
@@ -20,7 +20,7 @@ This repository contains hands-on Linux system administration projects demonstra
 
 - Implemented centralized file sharing using NFS
 - Configured local YUM repository for package management
-  👉 [View Project](./NFS-YUM)
+ 👉 [View Project](./NFS-YUM)
 
 ---
 
@@ -42,8 +42,7 @@ This repository contains hands-on Linux system administration projects demonstra
 
 🛠️ Technologies & Tools Used
 
-- Linux (RHEL/CentOS/AlmaLinux)
-- AWS (EC2, VPC, S3, IAM, EBS)
+- Linux (RHEL)
 - Apache (httpd)
 - FTP (VSFTPD)
 - NFS
@@ -58,7 +57,6 @@ This repository contains hands-on Linux system administration projects demonstra
 
 ✔️ Real-time server configurations
 ✔️ Security hardening techniques
-✔️ Cloud deployment using AWS
 ✔️ Hands-on troubleshooting and monitoring
 
 ---
