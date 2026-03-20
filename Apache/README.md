@@ -1,6 +1,6 @@
 Apache Web Server Deployment and Configuration (Linux)
 
-* Project Overview
+📌 Project Overview
 
 Deployed Apache web server on Linux to host a static website.
 
