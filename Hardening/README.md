@@ -21,8 +21,7 @@ Enhanced Linux server security and monitored system performance using various to
 
 📸 Screenshots
 
-=>Hardening
-
+## installfirewalld
 ![installfirewalld](hardening_screenshots/SS1-installfirewalld.png)
 
 (Add your screenshots here)
