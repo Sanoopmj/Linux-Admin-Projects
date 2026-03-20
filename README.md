@@ -12,7 +12,7 @@ This repository contains hands-on Linux system administration projects demonstra
 - Configured secure FTP server for file transfer
 - Implemented user authentication and access control
 - Configured firewall rules for FTP service
-  👉 "[View Project]" (./FTP)
+  👉 [View Project](./FTP)
 
 ---
 
@@ -20,7 +20,7 @@ This repository contains hands-on Linux system administration projects demonstra
 
 - Implemented centralized file sharing using NFS
 - Configured local YUM repository for package management
-  👉 "View Project" (./NFS-YUM)
+  👉 [View Project](./NFS-YUM)
 
 ---
 
@@ -28,7 +28,7 @@ This repository contains hands-on Linux system administration projects demonstra
 
 - Secured server by restricting SSH access and firewall rules
 - Monitored system performance and logs
-  👉 "View Project" (./Hardening)
+  👉 [View Project](./Hardening)
 
 ---
 
@@ -36,7 +36,7 @@ This repository contains hands-on Linux system administration projects demonstra
 
 - Installed and configured Apache web server
 - Hosted static website on Linux server
-  👉 "View Project" (./Apache)
+  👉 [View Project](./Apache)
 
 ---
 
