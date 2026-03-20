@@ -20,23 +20,8 @@ Deployed Apache web server on Linux to host a static website.
 
 📸 Screenshots
 
-=>Apache
-
-![httpdinstall](SS1-httpdinstall.png)
-![httpdstatus](SS2-httpdstatus.png)
-![index.html](SS3-index.html.png)
-![page1code](SS4-page1code.png)
-![mainwebpage](SS5-mainwebpage.png)
-![httpdconf](SS6-httpdconf.png)
-![configfile](SS7-configfile.png)
-![subpagefile](SS8-subpagefile.png)
-![subpagecode](SS9-subpagecode.png)
-![subpage](SS10-subpage.png)
-![httpdconf](SS11-httpdconf.png)
-![listen8080](SS12-listen8080.png)
-![8080config](SS13-8080config.png)
-![8080webpagecontent](SS14-8080webpagecontent.png)
-![8080webpage](SS15-8080webpage.png)
+## httpd_install
+![httpd_install](apache_screenshots/SS1-httpd_install.png)
 
 
 ✅ Outcome
