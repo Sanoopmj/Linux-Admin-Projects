@@ -43,7 +43,22 @@ This repository contains hands-on Linux system administration projects demonstra
 - Hosted static website on Linux server
   👉 [View Apache Project](./Apache)
 
----
+
+## 📸 Sample Screenshots
+## FTP Server
+![FTP](screenshots/FTP_login_working.png)
+
+## NFS Mount
+![NFS](screenshots/NFS_mount_working.png)
+
+## Firewall Rules
+![Firewall](screenshots/Firewall-cmd-list.png)
+
+## Monitoring
+![Monitoring](screenshots/Monitoring.png)
+
+## Apache Web Server
+![Apache](screenshots/Apache-webpage.png)
 
 🛠️ Technologies & Tools Used
 
