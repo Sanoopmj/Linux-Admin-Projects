@@ -1,4 +1,8 @@
 # Linux-Admin-Projects
+![Linux](https://img.shields.io/badge/Linux-RHEL-blue)
+![Apache](https://img.shields.io/badge/Apache-HTTPD-red)
+![DevOps](https://img.shields.io/badge/DevOps-Beginner-green)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 Linux System Administration Projects (FTP, NFS, Apache, Hardening)
 
 This repository contains hands-on Linux system administration projects demonstrating real-time skills in server configuration, networking, security, and cloud deployment.
@@ -12,7 +16,7 @@ This repository contains hands-on Linux system administration projects demonstra
 - Configured secure FTP server for file transfer
 - Implemented user authentication and access control
 - Configured firewall rules for FTP service
- 👉 [View Project](./FTP)
+ 👉 [View FTP Project](./FTP)
 
 ---
 
@@ -20,7 +24,7 @@ This repository contains hands-on Linux system administration projects demonstra
 
 - Implemented centralized file sharing using NFS
 - Configured local YUM repository for package management
- 👉 [View Project](./NFS-YUM)
+ 👉 [View NFS-YUM Project](./NFS-YUM)
 
 ---
 
@@ -28,7 +32,7 @@ This repository contains hands-on Linux system administration projects demonstra
 
 - Secured server by restricting SSH access and firewall rules
 - Monitored system performance and logs
-  👉 [View Project](./Hardening)
+  👉 [View Hardening & Monitoring Project](./Hardening)
 
 ---
 
@@ -36,7 +40,7 @@ This repository contains hands-on Linux system administration projects demonstra
 
 - Installed and configured Apache web server
 - Hosted static website on Linux server
-  👉 [View Project](./Apache)
+  👉 [View Apache Project](./Apache)
 
 ---
 
@@ -50,6 +54,14 @@ This repository contains hands-on Linux system administration projects demonstra
 - Firewalld
 - SSH
 - Networking
+
+## 🎯 Skills Gained
+
+- Linux Server Administration
+- Network Services Configuration
+- Security Hardening
+- Troubleshooting & Monitoring
+- Command Line Expertise
 
 ---
 
