@@ -3,6 +3,7 @@
 ![Apache](https://img.shields.io/badge/Apache-HTTPD-red)
 ![DevOps](https://img.shields.io/badge/DevOps-Beginner-green)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+
 Linux System Administration Projects (FTP, NFS, Apache, Hardening)
 
 This repository contains hands-on Linux system administration projects demonstrating real-time skills in server configuration, networking, security, and cloud deployment.
