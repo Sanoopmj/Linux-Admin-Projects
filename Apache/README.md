@@ -23,7 +23,7 @@ Deployed Apache web server on Linux to host a static website.
 =>Apache
 
 ![httpdinstall](SS1-httpdinstall.png)
-![httpdstatus](Apache/SS2-httpdstatus.png)
+![httpdstatus](SS2-httpdstatus.png)
 ![index.html](SS3-index.html.png)
 ![page1code](SS4-page1code.png)
 ![mainwebpage](SS5-mainwebpage.png)
