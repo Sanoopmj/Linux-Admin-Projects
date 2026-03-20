@@ -12,7 +12,7 @@ This repository contains hands-on Linux system administration projects demonstra
 - Configured secure FTP server for file transfer
 - Implemented user authentication and access control
 - Configured firewall rules for FTP service
-  👉 "View Project" (./FTP)
+  👉 "[View Project]" (./FTP)
 
 ---
 
