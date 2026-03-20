@@ -21,7 +21,7 @@ Implemented centralized file sharing using NFS and configured a local YUM reposi
 
 📸 Screenshots
 
-## =>NFS
+## NFS
 ## installnfs-utils
 ![installnfs-utils](nfs_yum_screenshots/SS1-installnfs-utils.png)
 
