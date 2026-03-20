@@ -24,6 +24,7 @@ Configured a secure FTP server using VSFTPD on a Linux system to enable controll
 
 =>To Get File
 
+![sentence](https://github.com/Sanoopmj/Linux-Admin-Projects/blob/main/FTP/FTP/To%20Get%20file/SS1-setenforce.png)
 ![setenforce](FTP/SS1-setenforce.png)
 ![clientsetenforce](SS2-clientsetenforce.png)
 ![installVSFTPD](SS3-installVSFTPD.png)
