@@ -24,7 +24,27 @@ Enhanced Linux server security and monitored system performance using various to
 ## installfirewalld
 ![installfirewalld](hardening_screenshots/SS1-installfirewalld.png)
 
-(Add your screenshots here)
+## sshdconfigfile
+![SS2-sshdconfigfile.png](hardening_screenshots/SS2-sshdconfigfile.png)
+
+## permitrootno
+![permitrootno](hardening_screenshots/SS3-permitrootno.png)
+
+## sshdstatus
+![sshdstatus](hardening_screenshots/SS4-sshdstatus.png)
+
+## firewalllist
+![firewalllist](hardening_screenshots/SS5-firewalllist.png)
+
+## monitoring
+![monitoring](hardening_screenshots/SS6-monitoring.png)
+
+## diskspace
+![diskspace](hardening_screenshots/SS7-diskspace.png)
+
+## logs
+![logs](hardening_screenshots/SS8-logs.png)
+
 
 ✅ Outcome
 
