@@ -25,7 +25,8 @@ Configured a secure FTP server using VSFTPD on a Linux system to enable controll
 ## To Get File 
 
 ## setenforce
-![setenforce](ftp_screenshots/to_get_file_screenshots/SS1-setenforce.png)
+![setenforce](ftp_screenshots/SS1-setenforce.png)
+
 
 
 
